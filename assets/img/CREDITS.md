@@ -1,0 +1,11 @@
+# Photo credits (Pexels)
+- hero/hero.jpg — Tima Miroshnichenko
+- rooms/uzd.jpg — MART  PRODUCTION
+- rooms/cardio.jpg — https://kaboompics.com/
+- rooms/consult.jpg — cottonbro studio
+- rooms/lab.jpg — https://kaboompics.com/
+- rooms/family.jpg — https://kaboompics.com/
+- rooms/diag.jpg — Anna Shvets
+- infra/interior.jpg — Nico Becker
+- infra/detail.jpg — https://kaboompics.com/
+- infra/doc.jpg — Daniil Kondrashin
